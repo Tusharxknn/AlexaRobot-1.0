@@ -47,11 +47,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2042185317"
+         "value": "5099353600"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Jankari_Ki_Duniya"
+         "value": "TUSHAR_INNOCENT_BACCHA"
       },
       "INFOPIC": {
          "description": "userinfo picture Show In Info.",
@@ -60,17 +60,17 @@
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to saitama support than consider you made an enemy.",
          "required": true,
-         "value": "Alexa_Help"
+         "value": "Best_Hindi_English_Chatting_Zone"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-1001717283097"
+         "value": "-1001661558857"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-1001717283097"
+         "value": "-1001661558857"
        },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
